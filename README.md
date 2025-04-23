@@ -161,6 +161,10 @@ ble.disconnectDevice();
 ble.cleanup();
 ```
 
+## 📂 Examples
+
+Check out the `examples` folder in the repository to see working implementations of BLE-Interact. These examples demonstrate how to integrate the library into your Java applications and provide practical use cases for common BLE operations.
+
 ## 🛠️ Build Instructions
 
 1. Ensure you have the Windows SDK installed
@@ -181,3 +185,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Made with ❤️ by imroodydev
+
+```
+
+```
